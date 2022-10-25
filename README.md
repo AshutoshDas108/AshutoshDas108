@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshutoshDas108
+- 👋 Hi, I’m Ashutosh Das
 - 👀 I’m interested in DevOps and MachineLearning ....
 - 🌱 I’m currently learning Data Structures and algorithm... and DevOps basics
 - 📫 Reach me on.. https://www.linkedin.com/in/ashutosh-das-59058124a/
