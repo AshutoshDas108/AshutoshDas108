@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Ashutosh Das
-- 👀 I’m interested in Android Development, DevOps and MachineLearning ....
-- 🌱 I’m currently learning Data Structures and algorithm... and Android Development basics
+- 👋 Hi,this is Ashutosh Das
+- 👀 interested in Data Science, MachineLearning, DevOps and other emerging technologies ....
+- 🌱 currently learning Machine Learning Algorithms
+- PROGRAMMING LANGUAGES: C++, Python, basics of Java
 - 📫 Reach me on.. https://www.linkedin.com/in/ashutosh-das-59058124a/
 
 <!---
