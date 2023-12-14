@@ -1,7 +1,8 @@
 - 👋 Hi,this is Ashutosh Das
-- 👀 interested in Data Science, MachineLearning, DevOps and other emerging technologies ....
-- 🌱 currently learning Machine Learning Algorithms
-- PROGRAMMING LANGUAGES: C++, Python, basics of Java
+- 👀 Exploring java based Technologies like Spring and SpringBoot
+- 👀 intersested in web3.0 domain (solidity and smart contracts)
+- 🌱 currently learning SpringBoot and SpringFramework modules
+- PROGRAMMING LANGUAGES: JAVA, C++, Basics of JS
 - 📫 Reach me on.. https://www.linkedin.com/in/ashutosh-das-59058124a/
 
 <!---
