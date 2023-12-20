@@ -2,7 +2,7 @@
 - 👀 Exploring java based Technologies like Spring and SpringBoot
 - 👀 intersested in web3.0 domain (solidity and smart contracts)
 - 🌱 currently learning SpringBoot and SpringFramework modules
-- PROGRAMMING LANGUAGES: JAVA, C++, Basics of JS
+- PROGRAMMING LANGUAGES: JAVA, C++, Basics of JS and Solidity
 - 📫 Reach me on.. https://www.linkedin.com/in/ashutosh-das-59058124a/
 
 <!---
