@@ -1,8 +1,9 @@
 - 👋 Hi,this is Ashutosh Das
-- 👀 Exploring java based Technologies like Spring and SpringBoot
+- 👀 Exploring Backend Technologies like SpringBoot and Node Js(Express)
+- 👀 Automation script development in python
 - 👀 intersested in web3.0 domain 
-- 🌱 currently learning SpringBoot and SpringFramework modules
-- PROGRAMMING LANGUAGES: JAVA, C++, Basics of JS and python
+- 🌱 currently learning Web 3.0
+- PROGRAMMING LANGUAGES: JAVA, C++, JavaScript and python
 - 📫 Reach me on.. https://www.linkedin.com/in/ashutosh-das-59058124a/
 
 <!---
